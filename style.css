@@ -1,3 +1,11 @@
 img {
     width: 10%
 }
+
+.menu:hover {
+    color: green
+}
+
+.menu:active {
+    color: red
+}
