@@ -7,9 +7,13 @@ img {
 }
 
 .menu:active {
-    color: skyblue
+    color: orange
 }
 
 .beard {
     width: 5%
+}
+
+body {
+    background-color: lightsteelblue
 }
