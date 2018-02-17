@@ -3,11 +3,11 @@ img {
 }
 
 .menu:hover {
-    color: green
+    color: teal
 }
 
 .menu:active {
-    color: red
+    color: skyblue
 }
 
 .beard {
