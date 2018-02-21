@@ -33,11 +33,11 @@ ul {
 }
 
 .menu:hover {
-    color: teal
+    color: black
 }
 
 .menu:active {
-    color: orange
+    color: red
 }
 
 
