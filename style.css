@@ -69,8 +69,19 @@ footer {
 
 }
 
+#home {
+    background-image: url("images/home.jpeg")
+}
+
+#about {
+    background-image: url("images/about.jpeg")
+}
+
+#contact {
+    background-image: url("images/contact.jpeg")
+}
+
 .picBackdrop {
-    background-image: url("images/home.jpeg");
     background-position: center;
     background-size: cover;
 
@@ -81,7 +92,7 @@ h1 {
     padding: 120px 10px;
     height: 60px;
     text-align: center;
-    color: black;
+    color: white;
     font-size: 72px;
     font-family: sans-serif;
 }
