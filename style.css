@@ -52,6 +52,12 @@ p {
 
 }
 
+h2 {
+    font-size: 24px;
+    font-family: sans-serif;
+    padding: 0px 60px;
+}
+
 .beard {
     width: 5%;
     display: block;
@@ -88,6 +94,16 @@ footer {
 }
 
 h1 {
+    margin: 0;
+    padding: 120px 10px;
+    height: 60px;
+    text-align: center;
+    color: black;
+    font-size: 72px;
+    font-family: sans-serif;
+}
+
+#white {
     margin: 0;
     padding: 120px 10px;
     height: 60px;
