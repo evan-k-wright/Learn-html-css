@@ -4,14 +4,32 @@
     margin-left: auto;
     margin-right: auto;
 }
-.menu {
+a {
     color: white;
+    font-size: 24px;
+    font-family: sans-serif;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+li {
+    float: right;
 
 }
 
 ul {
-    background-color: black
-    
+    background-color: gray;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+
+#active {
+    background-color: forestgreen;
+
 }
 
 .menu:hover {
@@ -21,6 +39,7 @@ ul {
 .menu:active {
     color: orange
 }
+
 
 .beard {
     width: 5%
