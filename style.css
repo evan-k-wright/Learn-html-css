@@ -1,9 +1,10 @@
 .img2 {
-    width: 15%;
+    width: 5%;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 a {
     color: white;
     font-size: 24px;
@@ -40,12 +41,47 @@ ul {
     color: red
 }
 
-
-.beard {
-    width: 5%
-}
-
 body {
     background-color: lightsteelblue;
 }
  
+p {
+    font-size: 24px;
+    font-family: sans-serif;
+    padding: 10px 60px;
+
+}
+
+.beard {
+    width: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+footer {
+    font-size: 24px;
+    font-family: sans-serif;
+    background-color: gray;
+    color: white;
+    padding: 10px 60px;
+
+}
+
+.picBackdrop {
+    background-image: url("images/home.jpeg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+h1 {
+    margin: 0;
+    padding: 120px 10px;
+    height: 60px;
+    text-align: center;
+    color: black;
+    font-size: 72px;
+    font-family: sans-serif;
+}
