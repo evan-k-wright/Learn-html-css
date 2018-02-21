@@ -4,6 +4,15 @@
     margin-left: auto;
     margin-right: auto;
 }
+.menu {
+    color: white;
+
+}
+
+ul {
+    background-color: black
+    
+}
 
 .menu:hover {
     color: teal
